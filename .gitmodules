@@ -1,0 +1,12 @@
+[submodule "wx_back_end/gateway"]
+	path = wx_back_end/gateway
+	url = https://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@github.com/Z776556938by/gateway.git
+[submodule "wx_frond_end/itmuch-miniapp"]
+	path = wx_frond_end/itmuch-miniapp
+	url = https://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@github.com/Z776556938by/itmuch-miniapp.git
+[submodule "wx_back_end/content-center"]
+	path = wx_back_end/content-center
+	url = https://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@github.com/Z776556938by/content-center.git
+[submodule "wx_back_end/user-center"]
+	path = wx_back_end/user-center
+	url = https://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@github.com/Z776556938by/user-center.git
